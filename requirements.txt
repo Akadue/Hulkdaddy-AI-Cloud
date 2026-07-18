@@ -8,3 +8,4 @@ twstock
 openpyxl
 psycopg2-binary
 gunicorn
+python-dotenv>=1.0,<2
